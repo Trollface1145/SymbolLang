@@ -128,4 +128,4 @@ Fork 本仓库
 灵感来源：Phigros 判定线、RKS 机制、栈机语言思想
 
 <p align="center"> <sub>始于 Word，不止于 Word —— 2026 年 8 月，一个准初中生用一整个暑假，让创意变成了现实。</sub> </p>
-<p align="center"> <sub>~!@#$% 基于c++架构研发</sub> </p>
+<p align="center"> <sub>~!@#$% 基于C++17标准自主研发~NT内核</sub> </p>
