@@ -121,7 +121,7 @@ Fork 本仓库
 © 2014-2026 Creative Gears. All rights reserved.
 
 #### 致谢
-作者：Trollface_巨魔（QQ: 2166439786）
+作者：Trollface_巨魔
 
 特别感谢：DeepSeek 在技术文档与代码调试中的协助
 
